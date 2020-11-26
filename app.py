@@ -1,4 +1,5 @@
-nterms = 10
+nterms = int(input("How many digits of the Fibonacci Sequence would you like to see?\n"
+                "-> "))
 count = 0 
 n1 = 0
 n2 = 1
